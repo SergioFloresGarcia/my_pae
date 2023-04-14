@@ -13,12 +13,12 @@ body {
 
 .create {
     width: 400px;
-    height: 350px;
+    height: 450px;
     background: #DAEDF4;
     margin: auto;
     margin-top: 200px;
     box-shadow: 8px 12px 36px #000;
-    padding: 20px 30px;
+    padding: 20px 50px;
     border-top: 5px solid blue;
     color: black;
 }
