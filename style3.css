@@ -9,11 +9,12 @@ body {
     background-image: url("wht.jpg");
     background-repeat: no-repeat;
     background-size: 100% 200%;
+    text-align: center;
 }
 
 .olvidaste {
     width: 530px;
-    height: 450px;
+    height: 550px;
     background: #a3ddf1;
     margin: auto;
     margin-top: 200px;
@@ -21,4 +22,9 @@ body {
     padding: 20px 50px;
     border-top: 10px solid rgb(52, 119, 173);
     color: black;
+}
+
+.foto {
+    width: 100px;
+    height: 100px;
 }
